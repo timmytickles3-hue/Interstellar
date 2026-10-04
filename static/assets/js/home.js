@@ -51,16 +51,16 @@ if (!inFrame && !navigator.userAgent.includes("Firefox") && store.get("ab") === 
 
 // Splash texts
 const SplashT = [
-  "Over 8 Million Users since 2023",
-  "Fastest growing proxy server",
-  "Made by xBubbo",
-  "Check out discord.gg/interstellar :)",
-  "Thanks for using the site",
-  "Follow us on Tiktok (@useinterstellar)",
-  "Subscribe to us on YouTube (@unblocking)",
-  "Subscribe to my Youtube (@xbubbo)",
+  "Extremly Fast Web Proxy",
+  "Did You Know Honey Bees Can Fly At 15 MPH?",
+  "Made By JaxJax",
+  "Check Out My Tiktok, cl0udy.mp3",
+  "Thanks For Using The Site",
+  "Have Fun!",
+  
+  
   "Check out the settings page",
-  "Check out our Patreon (https://www.patreon.com/gointerstellar)",
+  
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
